@@ -9,11 +9,11 @@ Embark on a visual journey through Teyvat's breathtaking landscapes! This intera
 
 
 ## Demo
+![Screen Recording - Jun 26, 2024](https://github.com/kunal-1207/slider/assets/66724637/5896818c-2717-4fd6-86f4-ce3371cb75ec)
 
-Insert gif or link to demo
 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/kunal-1207/slider/blob/main/demo/Screenshot%202024-06-26%20004754.png)
 
